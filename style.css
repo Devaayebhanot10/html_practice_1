@@ -1,5 +1,12 @@
 body{
-    background-color: red
-    color:(white)
+    background-color:rgb(87, 2, 2)
+    
     
     ;}
+    h1,h2,h3,a{
+        color: rgb(64, 210, 255);
+    }
+    p{
+        color: blanchedalmond;
+    }
+    
